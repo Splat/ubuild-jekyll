@@ -16,8 +16,8 @@ page_sections:
   - link: "#"
     link_text: Team
   cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    button_text: Download
+    url: mailTo:T&P-ProductSecurityandPrivacyDevelopment@comcast.com
+    button_text: Contact Us
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
